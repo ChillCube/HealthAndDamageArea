@@ -30,5 +30,6 @@ push-all-addons
 
 ## Dependencies
 
+- [DamageFormula](https://github.com/ChillCube/DamageFormula)
 - [LevelUp-Stats-and-EXP-system](https://github.com/ChillCube/Godot_LevelUp-Stats-and-EXP-system)
 - [DamageReceiver](https://github.com/ChillCube/DamageReceiver)
