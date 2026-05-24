@@ -27,3 +27,8 @@ remove-gd-addon HealthAndDamageArea
 ```bash
 push-all-addons
 ```
+
+## Dependencies
+
+- [LevelUp-Stats-and-EXP-system](https://github.com/ChillCube/Godot_LevelUp-Stats-and-EXP-system)
+- [DamageReceiver](https://github.com/ChillCube/DamageReceiver)
